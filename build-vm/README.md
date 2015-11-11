@@ -10,7 +10,7 @@
   * An ssh client(For example Putty) to start a new ssh session
 * Credentials required for login.
   * Username: vagrant
-  * Password: vagrant
+  * Password: vagrant 
 
 ### References:
 * https://docs.vagrantup.com/v2/getting-started/up.html
