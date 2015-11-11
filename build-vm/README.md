@@ -14,4 +14,5 @@
 
 ### References:
 * https://docs.vagrantup.com/v2/getting-started/up.html
+* https://atlas.hashicorp.com/rudolfochrist/boxes/ubuntu-desktop
 
