@@ -39,6 +39,6 @@ In this folder you will find:
 # Acknowledgement
 * The [vagrant file](https://github.com/SoftwareEngineeringToolDemos/ICSE-2011-Checker-Framework/blob/master/build-vm/Vagrantfile) makes use of this [base-box](https://atlas.hashicorp.com/rudolfochrist/boxes/ubuntu-desktop)
 This is a standard and stable external resource and is identical to the operating system as specified in the hand built VM.
-* A simple tutorial to help new users install Java onto Linux machines using shell scripts can be viewed [here]. (https://www.digitalocean.com/community/tutorials/how-to-install-java-on-ubuntu-with-apt-get)
+* A simple tutorial to help new users install Java onto Linux machines using shell scripts can be viewed [here] (https://www.digitalocean.com/community/tutorials/how-to-install-java-on-ubuntu-with-apt-get).
 
 
