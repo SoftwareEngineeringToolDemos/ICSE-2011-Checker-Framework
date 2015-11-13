@@ -1,6 +1,7 @@
 # Contents of build-vm folder
 In this folder you will find:
-*  **Vagrantfile** - Contains the vagrant script to load the Ubuntu 15 Desktop VM. 
+* [**Vagrantfile**](https://github.com/SoftwareEngineeringToolDemos/ICSE-2011-Checker-Framework/blob/master/build-vm/Vagrantfile)- Contains the vagrant script to load the Ubuntu LTS 14.04 Desktop VM. 
+
 ***
 
 # Minimum requirements for using this Vagrant Script 
@@ -23,16 +24,21 @@ In this folder you will find:
 * Credentials required for login.
   * Username: vagrant
   * Password: vagrant
-  
+
+***
+
 # Installed software
   * Java OpenJDK version 8. 
+   
+***
 
-### References:
-* https://docs.vagrantup.com/v2/getting-started/up.html
+
+# References:
+* This [page](https://docs.vagrantup.com/v2/getting-started/up.html) is a comprehensive guide to gettting started with Vagrant. 
  
-### This vagrant file makes use of the following basebox 
-* https://atlas.hashicorp.com/rudolfochrist/boxes/ubuntu-desktop
-This is a standard and stable external resource. This is identical to the operating system as used by the hand built VM.
-* A simple tutorial to help new users install Java onto their machines can be viewed [here] (https://www.digitalocean.com/community/tutorials/how-to-install-java-on-ubuntu-with-apt-get)
-* A tutorial to create the Vagrant script was followed which can be found [here] (https://blog.engineyard.com/2014/building-a-vagrant-box)
+# Acknowledgement
+* The [vagrant file](https://github.com/SoftwareEngineeringToolDemos/ICSE-2011-Checker-Framework/blob/master/build-vm/Vagrantfile) makes use of this [base-box](https://atlas.hashicorp.com/rudolfochrist/boxes/ubuntu-desktop)
+This is a standard and stable external resource and is identical to the operating system as specified in the hand built VM.
+* A simple tutorial to help new users install Java onto Linux machines using shell scripts can be viewed [here]. (https://www.digitalocean.com/community/tutorials/how-to-install-java-on-ubuntu-with-apt-get)
+
 
