@@ -1,5 +1,0 @@
-[Desktop Entry]
-Name[en_us]=Eclipse
-Exec=/opt/eclipse/eclipse
-Terminal=true
-Type=Application
