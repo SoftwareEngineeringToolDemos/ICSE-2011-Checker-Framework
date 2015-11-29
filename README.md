@@ -12,7 +12,7 @@ In this repository, for CheckerFramework you will find:
 
 * :white_check_mark: [Source code (available)](https://github.com/SoftwareEngineeringToolDemos/checker-framework/tree/master/checker/src)
 * :white_check_mark: [Eclipse Plugin for the original tool (available)](https://github.com/SoftwareEngineeringToolDemos/ICSE-2011-Checker-Framework/tree/master/eclipse)
-* * :white_check_mark: [Binaries (available)](https://github.com/SoftwareEngineeringToolDemos/ICSE-2011-Checker-Framework/tree/master/vm-content/Binaries)
+* :white_check_mark: [Binaries (available)](https://github.com/SoftwareEngineeringToolDemos/ICSE-2011-Checker-Framework/tree/master/vm-content/Binaries)
 
 
 This repository was constructed by [Kahan Prabhu](https://github.com/KahanPrabhu) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).
