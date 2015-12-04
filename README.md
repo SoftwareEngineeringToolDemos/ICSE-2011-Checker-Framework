@@ -7,6 +7,7 @@ This repository <i><b>IS NOT</b></i> the original repository for this tool. Here
 * [The Tool as an Eclipse Plugin.](http://http://types.cs.washington.edu/checker-framework/eclipse/)
 * [Tutorial.](http://types.cs.washington.edu/checker-framework/tutorial/)
 * [A Video of the Tool.](https://www.youtube.com/watch?v=eQAs-eJ5a8c)
+* [Virtual Machine with the tool installed and working](https://drive.google.com/a/ncsu.edu/file/d/0B5AVq4-Qj30mMVJCU1FfY2hsX28/view)
 
 In this repository, for CheckerFramework you will find:
 
