@@ -7,13 +7,14 @@ This repository <i><b>IS NOT</b></i> the original repository for this tool. Here
 * [The Tool as an Eclipse Plugin.](http://http://types.cs.washington.edu/checker-framework/eclipse/)
 * [Tutorial.](http://types.cs.washington.edu/checker-framework/tutorial/)
 * [A Video of the Tool.](https://www.youtube.com/watch?v=eQAs-eJ5a8c)
-* [Virtual Machine with the tool installed and working](https://drive.google.com/a/ncsu.edu/file/d/0B5AVq4-Qj30mMVJCU1FfY2hsX28/view)
+
 
 In this repository, for CheckerFramework you will find:
 
 * :white_check_mark: [Source code (available)](https://github.com/SoftwareEngineeringToolDemos/checker-framework/tree/master/checker/src)
 * :white_check_mark: [Eclipse Plugin for the original tool (available)](https://github.com/SoftwareEngineeringToolDemos/ICSE-2011-Checker-Framework/tree/master/eclipse)
 * :white_check_mark: [Binaries (available)](https://github.com/SoftwareEngineeringToolDemos/ICSE-2011-Checker-Framework/tree/master/vm-content/Binaries)
+* :white_check_mark: [Virtual Machine with the tool installed and working](https://drive.google.com/open?id=0B5AVq4-Qj30mMVJCU1FfY2hsX28)
 
 
 This repository was constructed by [Kahan Prabhu](https://github.com/KahanPrabhu) under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson).
