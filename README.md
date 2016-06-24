@@ -8,7 +8,6 @@ This repository <i><b>IS NOT</b></i> the original repository for this tool. Here
 * [Tutorial.](http://types.cs.washington.edu/checker-framework/tutorial/)
 * [A Video of the Tool.](https://www.youtube.com/watch?v=eQAs-eJ5a8c)
 
-
 In this repository, for CheckerFramework you will find:
 
 * :white_check_mark: [Source code (available)](https://github.com/SoftwareEngineeringToolDemos/checker-framework/tree/master/checker/src)
